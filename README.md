@@ -115,7 +115,6 @@ make -j4                                  # gera bitdoglab_rtos.uf2
 
 
 ---
-## 📝 Licença
-
-Distribuído sob a [GNU GPL-3.0](LICENSE).
+## 📜 Licença
+GNU GPL-3.0.
 

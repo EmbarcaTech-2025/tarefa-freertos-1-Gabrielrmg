@@ -68,10 +68,10 @@ Clique na imagem acima para abrir o vídeo, ou use o link direto abaixo:
 git submodule update --init --recursive   # baixar SDK + FreeRTOS
 mkdir build && cd build
 cmake -G "MinGW Makefiles" ..
-make -j4                                  # gera bitdoglab_rtos.uf2
+make -j4                                  # gera .uf2
 ```
 1. **Segure `BOOTSEL`**, conecte a Pico e solte.  
-2. Copie o arquivo **`bitdoglab_rtos.uf2`** para a unidade **RPI-RP2**.
+2. Copie o arquivo **`.uf2`** para a unidade **RPI-RP2**.
 ---
 ## 📌 Pinos (BitDogLab)
 

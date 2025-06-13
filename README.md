@@ -30,6 +30,7 @@ Sistema multitarefa em C para **BitDogLab (RP2040)** demonstrando o uso básico 
 ---
 
 ## 📁 Estrutura
+````text
 .
 ├── CMakeLists.txt
 ├── pico_sdk_import.cmake
@@ -39,6 +40,7 @@ Sistema multitarefa em C para **BitDogLab (RP2040)** demonstrando o uso básico 
 │   └── main.c
 └── include/
     └── FreeRTOSConfig.h
+````
 
 
 ---
@@ -58,12 +60,12 @@ make -j4                                  # gera bitdoglab_rtos.uf2
 
 | Função   | GPIO | Direção      |
 |----------|------|--------------|
-| LED R    | 18   | OUT          |
-| LED G    | 19   | OUT          |
-| LED B    | 20   | OUT          |
-| Buzzer   | 15   | OUT          |
-| Botão A  | 2    | IN + pull-up |
-| Botão B  | 3    | IN + pull-up |
+| LED R    | 13   | OUT          |
+| LED G    | 11   | OUT          |
+| LED B    | 12   | OUT          |
+| Buzzer   | 10   | OUT          |
+| Botão A  | 5    | IN + pull-up |
+| Botão B  | 6    | IN + pull-up |
 ---
 ## 🧪 Teste
 

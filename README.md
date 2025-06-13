@@ -1,12 +1,18 @@
+
+# Projetos de Sistemas Embarcados - EmbarcaTech 2025
+
+Autor: Gabriel Martins Ribeiro
+
+Curso: Residência Tecnológica em Sistemas Embarcados
+
+Instituição: EmbarcaTech - HBr
+
+Brasília, Junho de 2025
+
+---
+
 # Tarefa — Roteiro de FreeRTOS #1 · EmbarcaTech 2025  
 Sistema multitarefa em C para **BitDogLab (RP2040)** demonstrando o uso básico do **FreeRTOS**: três tarefas controlam um LED RGB, um buzzer piezoelétrico e dois botões físicos.
-
-| Autor        | Gabriel Martins Ribeiro |
-|--------------|-----------------|
-| Curso        | Residência Tecnológica em Sistemas Embarcados |
-| Instituição  | EmbarcaTech – HBr |
-| Local / Data | Brasília, Junho de 2025 |
-
 ---
 
 ## ✨ Funcionalidades

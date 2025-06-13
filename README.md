@@ -24,6 +24,17 @@ Sistema multitarefa em C para **BitDogLab (RP2040)** demonstrando o uso básico 
 | **Botões**  | **A** suspende/retoma LED · **B** suspende/retoma Buzzer     | 3 |
 
 ---
+## ▶️ Vídeo de Demonstração
+
+Assista ao protótipo funcionando no YouTube:
+
+[![Miniatura do vídeo](https://img.youtube.com/vi/WDi8M1ywuHg/0.jpg)](https://youtube.com/shorts/WDi8M1ywuHg)
+
+Clique na imagem acima para abrir o vídeo, ou use o link direto abaixo:
+
+▶️ [Demo no YouTube](https://youtube.com/shorts/WDi8M1ywuHg)
+
+---
 
 ## 🛠️ Requisitos
 
